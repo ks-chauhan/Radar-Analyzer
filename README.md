@@ -31,8 +31,7 @@ The application combines embeddings-based similarity and LLM-based evaluation to
 
 1. Clone the repository : 
 
-git clone https://github.com/ks-chauhan/Resume-Analyzer/tree/main
-\n
+git clone https://github.com/ks-chauhan/Resume-Analyzer/tree/main  
 cd Resume-Analyzer
 
 2. Create and activate a Python virtual environment
